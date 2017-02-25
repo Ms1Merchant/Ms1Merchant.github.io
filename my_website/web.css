@@ -4,14 +4,14 @@
 }
 
 body{
-    background-color: #beb6ee;
+    background-color: #FFEFDB;
 }
 
 .container {
     width: 100%;
-    border: 1px #beb6ee;
+    border: 1px #FFEFDB;
     font-family: AvenirRoman;
-    background-color: #beb6ee;
+    background-color: #FFEFDB;
 }
 
 .home {
@@ -25,7 +25,7 @@ body{
 header, footer {
     padding: 1em;
     color: white;
-    background-color: #6e7376;
+    background-color: #CDAA7D;
     clear: left;
     text-align: center;
 }
@@ -98,8 +98,8 @@ nav ul a:active {
 
 article {
     margin-left: 220px;
-    background-color: #dfdfdf;
-    border-left: 1px #dfdfdf;
+    background-color: #EEC591;
+    border-left: 1px #EEC591;
     padding: 1em;
     overflow: hidden;
 }
